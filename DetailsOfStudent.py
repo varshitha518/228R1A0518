@@ -1,0 +1,8 @@
+name=input("entter name:")
+print(name)
+address=input("enter address:")
+print(address)
+email=input("enter email:")
+print(email)
+phone=input("enter phone number")
+print(phone)
